@@ -2,6 +2,7 @@
 /**
 *
 * Snowstorm & Lights extension for the phpBB Forum Software package.
+* [Dutch] translated by Dutch Translators (https://github.com/dutch-translators)
 *
 * @copyright (c) 2014 Prosk8er <http://www.gotskillslounge.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -38,11 +39,11 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACP_SNOWSTORM_LIGHTS'		=> 'Snowstorm & Lights',
-	'ACP_SNOWSTORM_LIGHTS_SETTINGS'	=> 'Snowstorm & Lights Settings',
-	'SCL_ENABLED'			=> 'Enable "Smashable Christmas Lights"',
-	'SNOW_ENABLED'			=> 'Enable "Snowstorm"',
-	'SNOWSTORM_LIGHTS'		=> 'Snowstorm & Lights',
-	'SNOWSTORM_LIGHTS_EXPLAIN'	=> 'Configure Snowstorm & Lights.',
-	'SNOWSTORM_LIGHTS_SAVED'	=> 'Changes Saved.',
+	'ACP_SNOWSTORM_LIGHTS'		=> 'Sneeuwstorm & Lichtjes',
+	'ACP_SNOWSTORM_LIGHTS_SETTINGS'	=> 'Sneeuwstorm & Lichtjes instellingen',
+	'SCL_ENABLED'			=> 'Vernielbare kerstlichtjes inschakelen',
+	'SNOW_ENABLED'			=> 'Sneeuwstorm inschakelen',
+	'SNOWSTORM_LIGHTS'		=> 'Sneeuwstorm & Lichtjes',
+	'SNOWSTORM_LIGHTS_EXPLAIN'	=> 'Sneeuwstorm & Lichtjes beheren.',
+	'SNOWSTORM_LIGHTS_SAVED'	=> 'Wijzigingen succesvol opgeslagen.',
 ));
